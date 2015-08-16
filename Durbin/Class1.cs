@@ -11,7 +11,7 @@ namespace Durbin
         // Constructor
         public Class1()
         {
-
+            System.Console.WriteLine("test");
         }
     }
 }
